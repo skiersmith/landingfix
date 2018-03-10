@@ -1,8 +1,8 @@
 {
-    "name": "blog",
+    "name": "landingfix",
     "version": "1.0.0",
-    "description": "personalblog",
-    "author": "Awesome Author",
+    "description": "landingfix",
+    "author": "Hunter Smith",
     "private": true,
     "scripts": {
       "postinstall": "npm install express"
